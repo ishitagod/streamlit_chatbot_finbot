@@ -46,6 +46,6 @@ transformers==4.42.4
 unstructured_inference==0.7.36
 urllib3_secure_extra==0.1.0
 xmlrpclib==1.0.1
-~ransformers==4.36.2
-~treamlit==1.36.0
+transformers==4.36.2
+streamlit==1.36.0
 
